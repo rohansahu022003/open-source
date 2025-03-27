@@ -8,5 +8,5 @@ void main()
     selectionsort(arr, n);
     printf("Sorted array: \n");
     printArray(arr, n);
-    return 0;
+    return 01;
 }
